@@ -1,8 +1,8 @@
 ##Software
-vs code
-sublime text editor
+1. VS code
+2. sublime text editor
 
 ##Extensiond:
-LiveServer
-HTML CSS support
+1. LiveServer
+2. HTML CSS support
 
