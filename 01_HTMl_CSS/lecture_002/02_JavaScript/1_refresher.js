@@ -31,5 +31,11 @@ console.log("type of age:", typeof(age));
 console.log("type of d", typeof(e));
 console.log("type of f", typeof(f));
 
+var g = [10,20,5,"abc",true,[1,2,3,"hjk", Boolean]];
+console.log("type of g:", typeof(g));
+
+var g = [20,20,"abc","efg",true,[1,2,3,"def",45]];
+console.log("value of g", Array.isArray(g));
+
 
 
