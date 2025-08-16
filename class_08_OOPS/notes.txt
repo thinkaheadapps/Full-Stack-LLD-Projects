@@ -1,0 +1,31 @@
+Def :- Templets to create objects
+
+class myClass {
+ constructor() {}
+ methOds(){}
+}
+
+// Toyeta
+class Toyeta {
+    start() {
+
+    }
+    stop() {
+
+    }
+
+}
+
+class Employee {
+
+}
+
+Inheritance:- In heritance is passing down properties and methods from parent class to the child class
+
+class Parent {
+
+}
+
+class child extends Parent {
+    
+}

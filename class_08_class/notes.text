@@ -1,0 +1,16 @@
+Object - Entity - 1. properties, 2. method(functions)
+properties = variable
+
+
+Object - Student(object)
+1. Properties - fullName, 
+2. Function(methods) - getStudentSlectedSubject, printStudentmarks
+
+Prototypes:-
+Special Properties
+Syntax to use properties :- __proto__
+
+
+
+
+
